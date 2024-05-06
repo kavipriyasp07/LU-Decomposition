@@ -26,8 +26,8 @@ RegisterNumber:
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by:kavipriya sp
+RegisterNumber:2305002011
 */
 ```
 
