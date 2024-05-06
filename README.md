@@ -31,11 +31,11 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-/*
+
 Program to find the LU Decomposition of a matrix.
 Developed by:kavipriya sp
 RegisterNumber:2305002011
-*/
+
 # To print L and U matrix
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
